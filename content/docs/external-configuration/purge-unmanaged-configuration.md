@@ -13,7 +13,7 @@ then any changes not in Bank-Vaults configuration will be removed (including man
 
 > Note:
 > 
-> This feature is `destructive`, so be carful when you enable it especially for the first time
+> This feature is `destructive`, so be careful when you enable it especially for the first time
 > **because it could delete all data in your Vault.** We recommend you to test it a non-production environment first.
 
 This feature is disabled by default and it needs to be enabled explicitly in your configuration.
